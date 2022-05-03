@@ -8,8 +8,8 @@ I'm interested in software enginering, web development, and data science.
 Experience:
 * Incoming Software Engineering & Data Science intern @ [Otpum](https://www.optumlabs.com/)
 * Analytics & app development intern @ [AGCO](https://www.agcocorp.com/)
-* Ex-software engineer at [IISI](https://www.iisigroup.com/)
-* Ex-senior cloud engineer at [Titansoft](https://www.titansoft.com/en)
+* Ex-software engineer @ [IISI](https://www.iisigroup.com/)
+* Ex-senior cloud engineer @ [Titansoft](https://www.titansoft.com/en)
 
 Skills:
 * 💻 Python, Javascript, Shell script, HTML.
