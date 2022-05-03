@@ -23,7 +23,9 @@ You can find me at the following:
 
 # Examples of Work
 <label>Meteorite Landings Dashboard.</label>
+<div>
 <img src="https://github.com/raychangCode/personal_site/blob/dad055140060df4519925f089b52f7d878462b0a/images/meteor.png" width="512" >
+</div>
 
 # GitHub Stats
 [![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=raychangCode)](https://github.com/anuraghazra/github-readme-stats)
