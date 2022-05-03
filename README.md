@@ -17,9 +17,9 @@ Skills:
 🖥 MySQL, MongoDB, Neo4j, PostgreSQL.
 
 # Contacts
-You can find me at
-[Linkedin](https://www.linkedin.com/in/jui-ting-ray-chang/)
-[Email](jtchang2@illinois.edu)
+You can find me at the following:
+* 🔗 [Linkedin](https://www.linkedin.com/in/jui-ting-ray-chang/)
+* 📧 [Email](jtchang2@illinois.edu)
 
 ## Examples of Work
 <img src="https://github.com/raychangCode/personal_site/blob/dad055140060df4519925f089b52f7d878462b0a/images/meteor.png" width="512" >
