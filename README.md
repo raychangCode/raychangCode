@@ -12,9 +12,9 @@ Experience:
 * Ex-senior cloud engineer at [Titansoft](https://www.titansoft.com/en)
 
 Skills:
-💻 Python, Javascript, Shell script, HTML.
-🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana.
-🖥 MySQL, MongoDB, Neo4j, PostgreSQL.
+* 💻 Python, Javascript, Shell script, HTML.
+* 🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana.
+* 🖥 MySQL, MongoDB, Neo4j, PostgreSQL.
 
 # Contacts
 You can find me at the following:
