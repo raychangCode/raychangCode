@@ -22,7 +22,7 @@ You can find me at the following:
 * 📧 [Email](jtchang2@illinois.edu)
 
 # Examples of Work
-Meteroites Dashboard
+Meteorite Landings Dashboard.
 <img src="https://github.com/raychangCode/personal_site/blob/dad055140060df4519925f089b52f7d878462b0a/images/meteor.png" width="512" >
 
 # GitHub Stats
