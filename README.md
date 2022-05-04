@@ -1,8 +1,18 @@
-### Hi there 👋
+### 0.0.1. Hi there 👋
 
 # Ray
 My name is Ray, and I'm currently pursuing a master's degree in information science at UIUC.
 I'm interested in software enginering, web development, and data science.
+
+# Reach me out
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jui-ting-ray-chang/) 
+[![Mail Badge](https://img.shields.io/badge/Mail-Ray%20Chang-red)](jtchang2@illinois.edu)
+[![Web Badge](https://img.shields.io/badge/Web-Ray%20Chang-yellow)](https://raychangcode.github.io/personal_site/)
+
+- 🔭 I’m currently working at @ [AGCO](https://www.agcocorp.com/) as Analytics & app development intern.
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for full time SDE position.
+- ⚡ Fun fact: I like free diving but I'm afraid of water.
 
 ## Skills and Experience
 Experience:
@@ -16,10 +26,6 @@ Skills:
 * 🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana.
 * 🖥 MySQL, MongoDB, Neo4j, PostgreSQL.
 
-# Contacts
-You can find me at the following:
-* 🔗 [Linkedin](https://www.linkedin.com/in/jui-ting-ray-chang/)
-* 📧 [Email](jtchang2@illinois.edu)
 
 # Examples of Work
 <label>Meteorite Landings Dashboard.</label>
