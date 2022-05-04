@@ -7,13 +7,12 @@ I'm interested in software enginering, web development, and data science.
 # Reach me out
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jui-ting-ray-chang/) 
 [![Web Badge](https://img.shields.io/badge/Web-Ray%20Chang-yellow)](https://raychangcode.github.io/personal_site/)
-📧 jtchang2@illinois.edu
-
 
 - 🔭 I’m currently working at @ [AGCO](https://www.agcocorp.com/) as Analytics & app development intern.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for full time SDE position.
 - ⚡ Fun fact: I like free diving but I'm afraid of water.
+- 📧 jtchang2@illinois.edu
 
 ## Skills and Experience
 Experience:
