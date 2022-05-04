@@ -7,7 +7,7 @@ I'm interested in software enginering, web development, and data science.
 # Reach me out
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jui-ting-ray-chang/) 
 [![Web Badge](https://img.shields.io/badge/Web-Ray%20Chang-yellow)](https://raychangcode.github.io/personal_site/)
-[![Mail Badge](https://img.shields.io/badge/Mail-Ray%20Chang-red)]jtchang2@illinois.edu
+📧 jtchang2@illinois.edu
 
 
 - 🔭 I’m currently working at @ [AGCO](https://www.agcocorp.com/) as Analytics & app development intern.
