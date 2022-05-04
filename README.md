@@ -1,4 +1,4 @@
-### 0.0.1. Hi there 👋
+### Hi there 👋
 
 # Ray
 My name is Ray, and I'm currently pursuing a master's degree in information science at UIUC.
