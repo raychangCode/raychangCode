@@ -2,7 +2,7 @@
 
 # Ray
 My name is Ray, and I'm currently pursuing a master's degree in information science at UIUC.
-I'm interested in software enginering, web development, and data science.
+I'm interested in software engineering, web development, and data science.
 
 # Reach me out
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jui-ting-ray-chang/) 
