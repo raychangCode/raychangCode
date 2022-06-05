@@ -8,7 +8,7 @@ I'm interested in software engineering, web development, and data science.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jui-ting-ray-chang/) 
 [![Web Badge](https://img.shields.io/badge/Web-Ray%20Chang-yellow)](https://raychangcode.github.io/personal_site/)
 
-- 🔭 I’m currently working at @ [AGCO](https://www.agcocorp.com/) as Analytics & app development intern.
+- 🔭 I’m currently working at @ [Otpum](https://www.optumlabs.com/) as Software Engineering & Data Science intern.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for full time SDE position.
 - ⚡ Fun fact: I like free diving but I'm afraid of water.
@@ -16,14 +16,14 @@ I'm interested in software engineering, web development, and data science.
 
 ## Skills and Experience
 Experience:
-* Incoming Software Engineering & Data Science intern @ [Otpum](https://www.optumlabs.com/)
+* Software Engineering & Data Science intern @ [Otpum](https://www.optumlabs.com/)
 * Analytics & app development intern @ [AGCO](https://www.agcocorp.com/)
-* Ex-software engineer @ [IISI](https://www.iisigroup.com/)
-* Ex-senior cloud engineer @ [Titansoft](https://www.titansoft.com/en)
+* software engineer @ [IISI](https://www.iisigroup.com/)
+* senior cloud engineer @ [Titansoft](https://www.titansoft.com/en)
 
 Skills:
 * 💻 Python, Javascript, Shell script, HTML.
-* 🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana.
+* 🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana, Docker.
 * 🖥 MySQL, MongoDB, Neo4j, PostgreSQL.
 
 
