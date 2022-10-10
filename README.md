@@ -8,7 +8,7 @@ I'm interested in software engineering, web development, and data science.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jui-ting-ray-chang/) 
 [![Web Badge](https://img.shields.io/badge/Web-Ray%20Chang-yellow)](https://raychangcode.github.io/personal_site/)
 
-- 🔭 I’m currently working at @ [Otpum](https://www.optumlabs.com/) as Software Engineering & Data Science intern.
+- 🔭 I’m currently working at @ [Tesla](https://www.tesla.com/) as Data Science intern.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for full time SDE position.
 - ⚡ Fun fact: I like free diving but I'm afraid of water.
@@ -22,7 +22,7 @@ Experience:
 * senior cloud engineer @ [Titansoft](https://www.titansoft.com/en)
 
 Skills:
-* 💻 Python, Javascript, Shell script, HTML.
+* 💻 Python, Javascript, Shell script, React.
 * 🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana, Docker.
 * 🖥 MySQL, MongoDB, Neo4j, PostgreSQL.
 
