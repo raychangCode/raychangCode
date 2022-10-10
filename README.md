@@ -16,7 +16,8 @@ I'm interested in software engineering, web development, and data science.
 
 ## Skills and Experience
 Experience:
-* Software Engineering & Data Science intern @ [Otpum](https://www.optumlabs.com/)
+* Data Science intern @ [Tesla](https://www.tesla.com/) 
+* Software Engineering & Data Science intern @ [OtpumLabs (UnitedHealth Group)](https://www.optumlabs.com/)
 * Analytics & app development intern @ [AGCO](https://www.agcocorp.com/)
 * software engineer @ [IISI](https://www.iisigroup.com/)
 * senior cloud engineer @ [Titansoft](https://www.titansoft.com/en)
