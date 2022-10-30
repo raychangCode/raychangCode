@@ -23,9 +23,9 @@ Experience:
 * senior cloud engineer @ [Titansoft](https://www.titansoft.com/en)
 
 Skills:
-* 💻 Python, Javascript, Shell script, React.
-* 🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana, Docker.
-* 🖥 MySQL, MongoDB, Neo4j, PostgreSQL.
+* 💻 Python, Javascript, Shell script, React, TypeScript.
+* 🌐 AWS EC2/RDS, GCP, Linux, CentOS, Jenkins, Ansible, Git, VirtualBox, Grafana, Docker, Airflow.
+* 🖥 MySQL, MongoDB, Neo4j, PostgreSQL, ClickHouse.
 
 
 # Examples of Work
