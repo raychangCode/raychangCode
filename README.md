@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 # Ray
-My name is Ray, and I'm currently pursuing a master's degree in information science at UIUC.
-I'm interested in software engineering, web development, and data science.
+My name is Ray. I'm interested in software engineering, web development, and data science.
 
 # Reach me out
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jui-ting-ray-chang/) 
-[![Web Badge](https://img.shields.io/badge/Web-Ray%20Chang-yellow)](https://raychangcode.github.io/personal_site/)
 
-- 🤔 I’m looking for a full-time SDE position.
 - ⚡ Fun fact: I like free diving but I'm afraid of water.
 - 📧 rayinusa923@gmail.com
 
